@@ -1,7 +1,7 @@
 # Very short description of the package
 
-[![Latest Version on Packagist](https://img.shields.io/packagist/v/tinigin/calculator.svg?style=flat-square)](https://packagist.org/packages/tinigin/laravel-cms)
-[![Total Downloads](https://img.shields.io/packagist/dt/tinigin/calculator.svg?style=flat-square)](https://packagist.org/packages/tinigin/laravel-cms)
+[![Latest Version on Packagist](https://img.shields.io/packagist/v/tinigin/calculator.svg?style=flat-square)](https://packagist.org/packages/tinigin/calculator)
+[![Total Downloads](https://img.shields.io/packagist/dt/tinigin/calculator.svg?style=flat-square)](https://packagist.org/packages/tinigin/calculator)
 ![GitHub Actions](https://github.com/tinigin/calculator/actions/workflows/main.yml/badge.svg)
 
 This is where your description should go. Try and limit it to a paragraph or two, and maybe throw in a mention of what PSRs you support to avoid any confusion with users and contributors.
