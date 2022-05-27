@@ -1,8 +1,8 @@
 # Very short description of the package
 
-[![Latest Version on Packagist](https://img.shields.io/packagist/v/tinigin/laravel-cms.svg?style=flat-square)](https://packagist.org/packages/tinigin/laravel-cms)
-[![Total Downloads](https://img.shields.io/packagist/dt/tinigin/laravel-cms.svg?style=flat-square)](https://packagist.org/packages/tinigin/laravel-cms)
-![GitHub Actions](https://github.com/tinigin/laravel-cms/actions/workflows/main.yml/badge.svg)
+[![Latest Version on Packagist](https://img.shields.io/packagist/v/tinigin/calculator.svg?style=flat-square)](https://packagist.org/packages/tinigin/laravel-cms)
+[![Total Downloads](https://img.shields.io/packagist/dt/tinigin/calculator.svg?style=flat-square)](https://packagist.org/packages/tinigin/laravel-cms)
+![GitHub Actions](https://github.com/tinigin/calculator/actions/workflows/main.yml/badge.svg)
 
 This is where your description should go. Try and limit it to a paragraph or two, and maybe throw in a mention of what PSRs you support to avoid any confusion with users and contributors.
 
@@ -11,13 +11,7 @@ This is where your description should go. Try and limit it to a paragraph or two
 You can install the package via composer:
 
 ```bash
-composer require tinigin/laravel-cms
-```
-
-## Usage
-
-```php
-// Usage description here
+composer require tinigin/calculator
 ```
 
 ### Testing
